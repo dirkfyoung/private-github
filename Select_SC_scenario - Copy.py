@@ -2,6 +2,11 @@ import os
 import pandas as pd
 import numpy as np
 #i was here
+jjjjjjjjjjjjjjjjjjj
+uhg9uyg7yg97yg
+
+
+oi0joij08uh
 input_path = r"D:\PRZM_state_centroid_method"
 weather_grid = os.path.join(input_path,"StateCentroid_WeaGrid.txt")
 df_wg = pd.read_csv(weather_grid, header=0)
