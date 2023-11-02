@@ -4,8 +4,12 @@ import numpy as np
 #i was here
 jjjjjjjjjjjjjjjjjjj
 uhg9uyg7yg97yg
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+oooooooooooooooooooooooooooooooooooo
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+blah  hu8goutgyigf79
 
-
+iugoyugfuivu
 oi0joij08uh
 input_path = r"D:\PRZM_state_centroid_method"
 weather_grid = os.path.join(input_path,"StateCentroid_WeaGrid.txt")
